@@ -36,7 +36,7 @@ Here is a full example of a asset Object
   "@id": "cuid:a74xt3jbin",
   "amount": 1000000,
   "name": "Melcoin",
-  "ticker": "MEL"|,
+  "ticker": "MEL",
   "description": "Melcoin tokens",
   "precision": 2,
   "owner": "https://melvincarvalho.com/#me"
